@@ -49,10 +49,15 @@ Selama program PKL, saya mengembangkan beberapa kompetensi berikut:
 
 Sebagai bagian dari proses belajar, saya juga mendokumentasikan beberapa materi dan artikel mengenai dunia data.
 
-🔗 **Artikel Medium:**
+🔗 **Artikel Medium 1 :**
 [Eksplorasi Dunia Data: Tiga Profesi Utama, Roadmap Belajar, dan Teknologi Bahasa Pemrograman](https://medium.com/@abryanyogapratama/eksplorasi-dunia-data-tiga-profesi-utama-roadmap-belajar-dan-teknologi-bahasa-pemrograman-71e49b9ce178)
 
 Artikel tersebut membahas perbedaan peran antara Data Engineer, Data Analyst, dan Data Scientist beserta roadmap pembelajaran yang dapat digunakan oleh pemula.
+
+🔗 **Artikel Medium 2 :**
+[Mengenal Fondasi Data Modern : Dari Big Data, Data Lake, hingga Memahami Jenis Data]([https://medium.com/@abryanyogapratama/eksplorasi-dunia-data-tiga-profesi-utama-roadmap-belajar-dan-teknologi-bahasa-pemrograman-71e49b9ce178](https://medium.com/@abryanyogapratama/mengenal-fondasi-data-modern-dari-big-data-data-lake-hingga-memahami-jenis-data-883ff1bfc1da?sharedUserId=abryanyogapratama))
+
+Artikel tersebut membedah konsep hulu manajemen data modern, mulai dari karakteristik Big Data, fungsi fleksibel Data Lake sebagai wadah data mentah, hingga perbedaan mendasar antara Structured dan Unstructured Data.
 
 ---
 
