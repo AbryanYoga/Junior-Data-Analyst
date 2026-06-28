@@ -59,6 +59,12 @@ Artikel tersebut membahas perbedaan peran antara Data Engineer, Data Analyst, da
 
 Artikel tersebut membedah konsep hulu manajemen data modern, mulai dari karakteristik Big Data, fungsi fleksibel Data Lake sebagai wadah data mentah, hingga perbedaan mendasar antara Structured dan Unstructured Data.
 
+🔗 **Artikel Medium 3 :**
+[Mengolah Data Menjadi Kecerdasan Buatan : Memahami Dasar Machine Learning, Deep Learning, dan Generative Text](https://medium.com/@abryanyogapratama/mengolah-data-menjadi-kecerdasan-buatan-memahami-dasar-machine-learning-deep-learning-dan-75f474c1cf13?sharedUserId=abryanyogapratama)
+
+Artikel tersebut memberikan Penjelasan mendasar mengenai ekosistem kecerdasan buatan (AI) di hilir pengolahan data, mencakup cara kerja Machine Learning, struktur Deep Learning, implementasi NLP, hingga pemanfaatan teknologi Generative Text.
+
+
 ---
 
 ## 📂 4. Repository Structure
