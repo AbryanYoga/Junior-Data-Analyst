@@ -78,24 +78,42 @@ Artikel tersebut memberikan Penjelasan mendasar mengenai ekosistem kecerdasan bu
 └── 📦 projects/        # Studi kasus dan proyek analisis data
 ```
 
-## 📅 5. Jurnal Aktivitas Mingguan (8 Weeks Logbook)
+## 📅 5. Jurnal Aktivitas Mingguan (12 Weeks Logbook)
 
-Garis waktu di bawah ini merekam garis besar rencana aktivitas mingguan saya yang disinkronkan langsung dengan peta jalan instruksi kerja dari PT Edusoft Center Teknologi:
+Garis waktu di bawah ini merekam realisasi aktivitas mingguan saya yang disinkronkan langsung dengan peta jalan instruksi kerja dari PT Edusoft Center Teknologi. Seluruh minggu di bawah telah diselesaikan dan didokumentasikan pada folder `Reports/`.
 
-| Minggu | Fokus Kegiatan                         |                                                                                                                                                          |
-| ------ | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **W1** |  Orientasi Industri & Setup Tools    
-| **W2** |  Data Collection & Understanding     
-| **W3** |  Data Cleaning & Preparation         
-| **W4** |  Exploratory Data Analysis (EDA)     
-| **W5** |  Problem Solving & Business Question 
-| **W6** |  Reporting & Data Storytelling       
-| **W7** |  Final Project & Portofolio          
-| **W8** |  Presentasi Akhir & Evaluasi         
+| Minggu  | Fokus Kegiatan                                                                                                     | Status      |
+| ------- | -------------------------------------------------------------------------------------------------------------------- | ----------- |
+| **W1**  | Orientasi Industri & Setup Tools                                                                                    | ✅ Selesai |
+| **W2**  | Data Collection & Understanding                                                                                     | ✅ Selesai |
+| **W3**  | Pengenalan Data Cleaning & Dasar SQL (Basis Data)                                                                    | ✅ Selesai |
+| **W4**  | SQL Lanjutan (Join, Penggabungan Tabel, Union, Query Having, Cleaning Data)                                          | ✅ Selesai |
+| **W5**  | Data Cleaning & Preparation (Standardisasi Data, Missing Value & Duplicate)                                         | ✅ Selesai |
+| **W6**  | Exploratory Data Analysis — Analisis Univariate, Bivariate & Korelasi Data                                          | ✅ Selesai |
+| **W7**  | EDA Lanjutan — Trend Analysis, Segmentasi Data, Outlier & Pattern Analysis, Dashboard Interaktif                     | ✅ Selesai |
+| **W8**  | Business Problem & Problem Solving — Business Question, KPI & Metrics, Problem Analysis                             | ✅ Selesai |
+| **W9**  | Root Cause & Solusi Bisnis — Finding the Root Cause, Generate Alternative Solutions, Data-Driven Recommendation     | ✅ Selesai |
+| **W10** | Reporting & Data Storytelling — Reporting Fundamentals, Data Visualization for Reporting, Dashboard & Management Report | ✅ Selesai |
+| **W11** | Final Project Kick-off — Requirement Gathering, Data Preparation, EDA, Business Analysis, Dashboard Development     | ✅ Selesai |
+| **W12** | Final Project & Presentasi — Final Analysis Report, Data Storytelling & Presentation, Portfolio Development          | ✅ Selesai |
 
 ---
 
-## 🔮 6. Rencana Studi Kasus Data (Future Projects)
+## 🎥 6. Demo Data Analyst (Final Project Showcase)
+
+Sebagai bagian dari Final Project pada Week 12, saya membuat video demonstrasi praktis yang menunjukkan alur kerja seorang Data Analyst secara end-to-end — mulai dari proses pembersihan data (*data cleaning*), validasi dan audit kualitas data, hingga penyusunan dashboard interaktif untuk pelaporan bisnis.
+
+**Cakupan demo:**
+
+* 🧹 **Data Cleaning Process** — pengecekan missing value, duplikat, konsistensi tanggal, serta validasi kolom hasil perhitungan (harga, total penjualan, profit, margin).
+* 📊 **Insight & Business Recommendation** — analisis profit per channel, margin per kategori, dampak diskon terhadap kerugian, hingga rekomendasi tindak lanjut berbasis data.
+* 📈 **Dashboard Development** — pembuatan dashboard Excel dengan KPI card dan visualisasi interaktif berbasis formula (live dari data mentah).
+
+🔗 **Video Demo :** *(https://youtu.be/deqj7fNm7OI)*
+
+---
+
+## 🔮 7. Rencana Studi Kasus Data (Future Projects)
 
 Sebagai bentuk penerapan keterampilan yang diperoleh selama kegiatan PKL, berikut beberapa studi kasus yang akan saya kerjakan:
 
@@ -105,7 +123,7 @@ Sebagai bentuk penerapan keterampilan yang diperoleh selama kegiatan PKL, beriku
 | 📈 **Dashboard Visualisasi Data**      | Membangun dashboard interaktif untuk menyajikan hasil analisis data secara lebih informatif dan mudah dipahami.                        |
 | 🔍 **Exploratory Data Analysis (EDA)** | Melakukan eksplorasi data untuk menemukan pola, tren, dan insight dari dataset yang digunakan.                                         |
 
-## 🚀 7. Continuous Learning
+## 🚀 8. Continuous Learning
 
 Sebagai seorang pembelajar di bidang Data Analytics, saya berkomitmen untuk terus meningkatkan kompetensi melalui praktik langsung, eksplorasi studi kasus, serta pengembangan portofolio yang berkelanjutan.
 
